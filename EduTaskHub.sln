@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduTaskHub.Frontend", "EduTaskHub.Frontend\EduTaskHub.Frontend.csproj", "{780F9E5F-3FF6-4E55-B859-65ACDDBD937F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduTaskHub.Frontend.UnitTests", "EduTaskHub.Frontend.UnitTests\EduTaskHub.Frontend.UnitTests.csproj", "{D4B2EC01-780D-422F-A9BF-0F0A2073752C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{780F9E5F-3FF6-4E55-B859-65ACDDBD937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780F9E5F-3FF6-4E55-B859-65ACDDBD937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780F9E5F-3FF6-4E55-B859-65ACDDBD937F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B2EC01-780D-422F-A9BF-0F0A2073752C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B2EC01-780D-422F-A9BF-0F0A2073752C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B2EC01-780D-422F-A9BF-0F0A2073752C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B2EC01-780D-422F-A9BF-0F0A2073752C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
